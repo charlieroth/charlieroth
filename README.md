@@ -11,15 +11,18 @@
 
 <p>&nbsp;</p>
 
-<table>
-  <tr>
-    <td>Spotify</td>
-    <td>LinkedIn</td> 
-    <td>Twitch</td> 
-  </tr>
-  <tr>
-    <td><a href="https://open.spotify.com/user/charlieroth_">charlieroth</a></td> 
-    <td><a href="https://www.linkedin.com/in/charles-thomas-roth/">charles-thomas-roth</a></td>
-    <td><a href="https://twitch.tv/charlestheyoungest">charlestheyoungest</a></td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>Spotify</td>
+      <td>LinkedIn</td> 
+      <td>Twitch</td> 
+    </tr>
+    <tr>
+      <td><a href="https://open.spotify.com/user/charlieroth_">charlieroth</a></td> 
+      <td><a href="https://www.linkedin.com/in/charles-thomas-roth/">charles-thomas-roth</a></td>
+      <td><a href="https://twitch.tv/charlestheyoungest">charlestheyoungest</a></td>
+    </tr>
+  </table>
+</div>
+
