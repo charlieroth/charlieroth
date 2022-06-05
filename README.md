@@ -14,14 +14,16 @@
 <div align="center">
   <table>
     <tr>
-      <td>Spotify</td>
+      <td>Twitter</td> 
       <td>LinkedIn</td> 
       <td>Twitch</td> 
+      <td>Spotify</td>
     </tr>
     <tr>
-      <td><a href="https://open.spotify.com/user/charlieroth_">charlieroth</a></td> 
+      <td><a href="https://twitter.com/charlieroth_">charlieroth_</a></td>
       <td><a href="https://www.linkedin.com/in/charles-thomas-roth/">charles-thomas-roth</a></td>
       <td><a href="https://twitch.tv/charlestheyoungest">charlestheyoungest</a></td>
+      <td><a href="https://open.spotify.com/user/charlieroth_">charlieroth</a></td> 
     </tr>
   </table>
 </div>
