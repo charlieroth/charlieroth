@@ -4,17 +4,15 @@ I enjoy building things using all sorts of languages. I sometimes stream on [Twi
 
 <p>&nbsp;</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlieroth&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="charlieroth"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlieroth&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="charlieroth"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charlieroth&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=true" alt="charlieroth"/></p>
+<p>&nbsp;</p>
 
-<h2 align="center">Where you can find me on the internet</h1>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=charlieroth&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=true" alt="charlieroth"/></p>
+
+<p>&nbsp;</p>
 
 <table>
-  <tr>
-    <th>Location</th>
-    <th>Link</th> 
-  </tr>
   <tr>
     <td>Spotify</td>
     <td>LinkedIn</td> 
