@@ -1,6 +1,6 @@
-# Hello! I'm `charlieroth`
+<h1>Hello! I'm charlieroth</h1>
 
-I enjoy building things using all sorts of languages. I sometimes stream on [Twitch](https://twitch.tv/charlestheyoungest)
+<p align="center">I enjoy building things using all sorts of languages. I sometimes stream on [Twitch](https://twitch.tv/charlestheyoungest)</p>
 
 <p>&nbsp;</p>
 
