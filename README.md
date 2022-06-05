@@ -1,6 +1,6 @@
-<h1>Hello! I'm charlieroth</h1>
+<h1 align="center">Hello! I'm charlieroth</h1>
 
-<p align="center">I enjoy building things using all sorts of languages. I sometimes stream on [Twitch](https://twitch.tv/charlestheyoungest)</p>
+<p align="center">I enjoy building things using all sorts of languages. I sometimes stream on <a href="https://twitch.tv/charlestheyoungest" alt="charlestheyoungest">Twitch</a></p>
 
 <p>&nbsp;</p>
 
