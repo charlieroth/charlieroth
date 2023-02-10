@@ -1,6 +1,10 @@
 <h1 align="center">Hello! I'm charlieroth</h1>
 
-<p align="center">I enjoy writing software using all sorts of languages. I sometimes stream on <a href="https://twitch.tv/charlestheyoungest" alt="charlestheyoungest">Twitch</a></p>
+<p align="center">I enjoy writing software using all sorts of programming languages</p>
+
+<p align="center">Currently, I am building children's educational software at <a href="https://hejalbert.se">Albert AB</a></p>
+
+<p align="center">In my spare time, I am building my own software company <a href="https://tacittech.org">Tacit Technologies</a>. More to come about that 😎</p>
 
 <p>&nbsp;</p>
 
@@ -16,14 +20,10 @@
     <tr>
       <td>Twitter</td> 
       <td>LinkedIn</td> 
-      <td>Twitch</td> 
-      <td>Spotify</td>
     </tr>
     <tr>
       <td><a href="https://twitter.com/charlieroth_">charlieroth_</a></td>
       <td><a href="https://www.linkedin.com/in/charles-thomas-roth/">charles-thomas-roth</a></td>
-      <td><a href="https://twitch.tv/charlestheyoungest">charlestheyoungest</a></td>
-      <td><a href="https://open.spotify.com/user/charlieroth_">charlieroth</a></td> 
     </tr>
   </table>
 </div>
