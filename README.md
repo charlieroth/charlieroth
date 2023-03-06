@@ -1,10 +1,6 @@
-<h1 align="center">Hello! I'm charlieroth</h1>
+<h1 align="center">Hello! I'm <code>charlieroth</code></h1>
 
-<p align="center">I enjoy writing software using all sorts of programming languages</p>
-
-<p align="center">Currently, I am building children's educational software at <a href="https://hejalbert.se">Albert AB</a></p>
-
-<p align="center">In my spare time, I am building my own software company <a href="https://tacittech.org">Tacit Technologies</a>. More to come about that 😎</p>
+<p align="center">Building my first software company, Tacit Technologies, and my first product <strong>Ballot<strong></p>
 
 <p>&nbsp;</p>
 
@@ -18,10 +14,14 @@
 <div align="center">
   <table>
     <tr>
+      <td>Tacit</td>
+      <td>Ballot</td>
       <td>Twitter</td> 
-      <td>LinkedIn</td> 
+      <td>LinkedIn</td>
     </tr>
     <tr>
+      <td><a href="https://tacittech.org">Tacit</a></td>
+      <td><a href="https://tacittech.org/ballot">Ballot</a></td>
       <td><a href="https://twitter.com/charlieroth_">charlieroth_</a></td>
       <td><a href="https://www.linkedin.com/in/charles-thomas-roth/">charles-thomas-roth</a></td>
     </tr>
