@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm <code>charlieroth</code></h1>
 
-<p align="center">Building my first software company, Tacit Technologies, and my first product <strong>Ballot<strong></p>
+<p align="center">Building Tacit Technologies, and our first product <strong>Ballot<strong></p>
 
 <p>&nbsp;</p>
 
