@@ -1,3 +1,3 @@
 ## Hi, I'm Charlie
 
-Software engineer building on the BEAM
+Software Engineer build with Elixir, TypeScript and Zig
