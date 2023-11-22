@@ -1,3 +1,3 @@
-## Hi, I'm Charlie
+## Hi 👋
 
-Software Engineer build with Elixir, TypeScript and Zig
+Fullstack developer using Elixir and TypeScript
