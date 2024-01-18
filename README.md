@@ -1,6 +1,6 @@
 ## Hi 👋
 
-Fullstack developer using Swift, Elixir, Elm, Python and TypeScript to build
+Fullstack developer focused on learning and building with Swift, Zig, Elixir and TypeScript
 
 You can find me at the following places:
 
