@@ -1,6 +1,6 @@
 ## Hi 👋
 
-Fullstack developer focused on learning and building with Swift, Zig, Elixir and TypeScript
+Fullstack developer learning and building with Swift, Zig, Elixir and TypeScript
 
 You can find me at the following places:
 
