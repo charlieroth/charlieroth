@@ -1,6 +1,6 @@
 ## Hi 👋
 
-Fullstack developer learning and building with Swift, Go and TypeScript
+Fullstack developer learning and building with Swift, Go, Elixir and TypeScript
 
 You can find me at the following places:
 
