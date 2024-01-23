@@ -1,6 +1,6 @@
 ## Hi 👋
 
-Fullstack developer learning and building with Rust, Go, Elixir and TypeScript
+Fullstack developer learning and building with Swift, Rust, Zig, and Elixir
 
 You can find me at the following places:
 
