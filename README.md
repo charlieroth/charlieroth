@@ -1,6 +1,6 @@
 ## Hi 👋
 
-Fullstack developer learning and building with Swift, Rust, Zig, and Elixir
+Digital librarian building and researching software for the purpose of storing and sharing data for all people, for all of time
 
 You can find me at the following places:
 
