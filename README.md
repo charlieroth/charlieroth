@@ -1,3 +1,3 @@
 ## 👋 Charlie Roth
 
-[CV & Resume](https://github.com/charlieroth/cv)
+Exploring concurrent/distributed systems and on-device machine learning
