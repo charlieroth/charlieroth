@@ -1,3 +1,3 @@
-## 👋 Charlie Roth
+## 🥷 Charlie Roth
 
 Exploring concurrency patterns and distributed systems
