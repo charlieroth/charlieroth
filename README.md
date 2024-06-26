@@ -1,3 +1,3 @@
 ## 👋 Charlie Roth
 
-Exploring concurrency patterns, distributed systems and on-device machine learning
+Exploring concurrency patterns and distributed systems
