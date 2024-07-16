@@ -1,3 +1,6 @@
 ## 🥷 Charlie Roth
 
-Exploring concurrency patterns and distributed systems
+Current interests: 
+- Note taking a digital organization
+- DevOps and MLOps
+- Distributed Systems and concurrency patterns
