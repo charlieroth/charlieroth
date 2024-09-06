@@ -1,5 +1,5 @@
 ## 🥷 Charlie Roth
 
 Current interests: 
-- Embedded Systems (OS-less development)
+- Embedded Software
 - Robotics
