@@ -1,5 +1,3 @@
 ## 🥷 Charlie Roth
 
-Current interests: 
-- Embedded Software
-- Robotics
+Making machines talk
