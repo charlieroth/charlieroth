@@ -1,3 +1,7 @@
 ## 🥷 Charlie Roth
 
-Making machines talk
+Software engineer interested in:
+
+- Distributed systems
+- Machine learning
+- Embedded software
