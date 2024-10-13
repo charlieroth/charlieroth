@@ -3,5 +3,5 @@
 Software engineer interested in:
 
 - Distributed systems
-- Machine learning
+- AI / ML
 - IOT systems
