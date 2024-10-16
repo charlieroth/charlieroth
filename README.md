@@ -2,8 +2,6 @@
 
 Software engineer interested in:
 
-- Distributed systems
+- Distributed systems / computation
 - AI / ML
 - IOT systems
-
-Testing, testing, 123
