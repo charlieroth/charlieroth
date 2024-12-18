@@ -159,7 +159,9 @@ Technology Stack:
 https://www.purdue.edu/
 
 Location: West Lafayette, IN USA
+
 Degree: Bachelor of Science - BS, Computer Science
+
 Studied: 2015 to 2019
 
 Highlights:
@@ -177,7 +179,9 @@ Highlights:
 https://www.lakeforest.edu/
 
 Location: Lake Forest, IL USA
+
 Concentration: Business & Finance
+
 Studied: 2014 to 2015
 
 Highlights:
