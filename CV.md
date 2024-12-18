@@ -5,7 +5,9 @@
 [carboncloud.com](https://carboncloud.com/)
 
 When: `December 2023 - Present`
+
 Location: `Gothenburg, Sweden`
+
 Position: `Software Engineer`
 
 I am a member of the engineering team whose goal is building web-based applications for companies to organize and optimize their food supply chain emissions. More specifically, I am a member of *The Plumbers*, who maintain following applications:
@@ -41,7 +43,9 @@ Technical Stack:
 ## Bzzt AB
 
 When: `June 2023 - November 2023`
+
 Location: `Gothenburg, Sweden`
+
 Position: `Software Engineer`
 
 Bzzt AB attempted to disrupt the last-mile delivery vertical of logistics through the use of electric mopeds and electric [tuktuks](https://en.wikipedia.org/wiki/Auto_rickshaw).
@@ -75,7 +79,9 @@ Technical Stack:
 [hejalbert.se](https://hejalbert.se/)
 
 When: `December 2020 - June 2023`
+
 Location: `Gothenburg, Sweden`
+
 Position: `Software Engineer`
 
 Albert AB is digital education company building mobile applications that teach children Mathematics, Swedish, English, Programming, Geography and more.
@@ -124,7 +130,9 @@ Technical Stack:
 ## Appirio
 
 When: `June 2019 - November 2020`
+
 Location: `Indianapolis, Indiana USA`
+
 Position: `Consultant`
 
 Appirio was my first job after graduating from Purdue University. I was hired as a consultant whose roles and responsibilities varied from traditional Salesforce consulting operations, including creating, managing and customizing an organization's Salesforce CRM. I was primarily focused on the cloud services vertical of Appirio's business where we would develop custom software solutions to integrate into a Salesforce CRM system, using the [Heroku](https://www.heroku.com/) platform.
