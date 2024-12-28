@@ -1,7 +1,6 @@
-## 🥷 Charlie Roth
+##  🌱 Charlie Roth
 
-Software engineer interested in:
+Currently interested in:
 
-- Distributed systems / computation
-- AI / ML
-- IOT systems
+- [Local First Software](https://www.inkandswitch.com/local-first/)
+- [Urbit](https://urbit.org), you can find me at `~waltyr-dacmus`
