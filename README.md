@@ -4,5 +4,5 @@ Currently working at [CarbonCloud](https://carboncloud.com/) building software t
 
 In my free time I'm exploring:
 
-- Embedded software using Rust
+- Home automation and embedded software using Rust
 - [Urbit](https://urbit.org), you can find me at `~waltyr-dacmus`
