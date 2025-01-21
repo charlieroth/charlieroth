@@ -1,8 +1,5 @@
 ##  🌱 Charlie Roth
 
-Currently working at [CarbonCloud](https://carboncloud.com/) building software to explore your products carbon footprint
+I'm a software engineer working on supply chain emission reduction at [CarbonCloud](https://carboncloud.com)
 
-In my free time I'm exploring:
-
-- Home automation and embedded software using Rust
-- [Urbit](https://urbit.org), you can find me at `~waltyr-dacmus`
+In my free time, I am exploring the ideas of decentralized identity/protocols and local-first software
