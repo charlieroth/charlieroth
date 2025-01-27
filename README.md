@@ -1,4 +1,4 @@
-🗞️ <a target="_blank" href="https://nostr.band/npub1mjnfeclrm83z6msc8elz2p8m3mynr5u7qcy293e8u0wdgkc5jtdqr947hw">Nostr</a>
+💬 <a target="_blank" href="https://nostr.band/npub1mjnfeclrm83z6msc8elz2p8m3mynr5u7qcy293e8u0wdgkc5jtdqr947hw">Nostr</a>
 
 💼 <a target="_blank" href="https://www.linkedin.com/in/charles-thomas-roth/">LinkedIn</a>
 
