@@ -1,4 +1,8 @@
-Full-stack engineer interested in distributed systems and local-first software
+Building https://jsoncalendar.org
+
+---
+
+Connect with me:
 
 💼 <a target="_blank" href="https://www.linkedin.com/in/charles-thomas-roth/">LinkedIn</a>
 
