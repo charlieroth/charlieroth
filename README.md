@@ -1,1 +1,1 @@
-Software engineer studying and implementing distributed systems
+Studying and implementing distributed systems
